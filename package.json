@@ -36,10 +36,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HaruHunab1320/parallax",
-    "directory": "packages/pty-state-capture"
+    "url": "https://github.com/HaruHunab1320/pty-state-capture.git"
   },
-  "homepage": "https://github.com/HaruHunab1320/parallax/tree/main/packages/pty-state-capture#readme",
+  "homepage": "https://github.com/HaruHunab1320/pty-state-capture#readme",
   "dependencies": {},
   "devDependencies": {
     "@types/node": "^22.14.1",
