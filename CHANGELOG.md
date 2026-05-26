@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.1
+
+### Changed
+- Repository extracted from the parallax monorepo into its own standalone repo at `github.com/HaruHunab1320/pty-state-capture`. Package metadata (`repository`, `homepage`) updated accordingly. No source code changes.
+
 ## 0.2.0
 
 ### Added
